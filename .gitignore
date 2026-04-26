@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+data/
+service_account.json
+telegram-ai-bot-*.json
+*.log
